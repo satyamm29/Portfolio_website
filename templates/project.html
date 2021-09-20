@@ -1,0 +1,17 @@
+<section class = "white-section" id="projects">
+          <h2>Projects</h2>
+          <div class="row">
+            {% for data,value in project_data.items():%}
+            <div class="col-sm-6">
+              <div class="card">
+                <div class="card-body">
+                  <h5 class="card-title">{{value["Project Name"]}}</h5>
+                  <p class="card-text">{{value["Description"]}}</p>
+                  <a href="{{value['URL']}}" class="btn btn-primary">Checkout the Project</a>
+                </div>
+              </div>
+            </div>
+              {% endfor %}
+          </div>
+
+        </section>

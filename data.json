@@ -1,0 +1,26 @@
+{
+  "1":{
+    "Project Name" : "Blog Website With Flask",
+    "Description": "This is a blog website which uses flask as backend to connect with database",
+    "Language Used" : ["Python-Flask","HTML","CSS- Bootstrap"],
+    "URL": "https://satyaam-blog.herokuapp.com/"
+  },
+  "2":{
+    "Project Name" : "Personal Portfolio Website",
+    "Description" : "This is a personal Portfolio website which uses flask as a backend",
+    "Language Used" : ["Python-Flask","HTML","CSS- Bootstrap"],
+    "URL": "#"
+  },
+  "3":{
+    "Project Name" : "Snake Game Using Python",
+    "Description" : "This uses TKINTER for GUI in Python",
+    "Language Used" : ["Python","TKINTER"],
+    "URL": "https://github.com/satyamm29/Snake_Game"
+  },
+  "4":{
+    "Project Name" : "Voice Assistant or Chat-bot Using Python",
+    "Description" : "This is a chat-bot made using python",
+    "Language Used" : ["Python"],
+    "URL": "https://github.com/satyamm29/Voice_Assistant"
+  }
+}

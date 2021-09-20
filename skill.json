@@ -1,0 +1,32 @@
+{
+  "1": {
+    "Skill-Name": "Python Programming Language",
+    "Skill-Image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqEH7yO4QH_QOniC_xPcwiQfKJWveMI0YARg&usqp=CAU",
+    "Desc": "This is one of my key skills and my favorite programming language",
+    "Rating": "⭐⭐⭐⭐"
+  },
+  "2": {
+    "Skill-Name": "C Language",
+    "Skill-Image": "https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png",
+    "Desc": "This is one of the first programming language and it laid foundation stones in my love for coding",
+    "Rating": "⭐⭐⭐⭐"
+  },
+  "3": {
+    "Skill-Name": "C++ Language",
+    "Skill-Image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1200px-ISO_C%2B%2B_Logo.svg.png",
+    "Desc": "This was the first programming language that I studied.",
+    "Rating": "⭐⭐⭐"
+  },
+  "4": {
+    "Skill-Name": "Flutter",
+    "Skill-Image": "https://i.pinimg.com/originals/c1/65/1f/c1651f598d212acdfe551f103548e495.png",
+    "Desc": "This is framework which uses dart as a programming language for building native apps in ios and android.",
+    "Rating": "⭐⭐⭐"
+  },
+  "5": {
+    "Skill-Name": "Java",
+    "Skill-Image": "https://www.theindianwire.com/wp-content/uploads/2018/06/java-logo.png",
+    "Desc": "This is a really well structured OOP Language. Although I am not very comfortable with it.",
+    "Rating": "⭐⭐⭐"
+  }
+}
